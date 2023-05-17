@@ -1,6 +1,6 @@
 # ChessGame
 
-A repository for a chess game in Python (Assignment 12).
+A repository for a chess game in Python
 
 
 
@@ -10,7 +10,7 @@ See [grading.md](grading.md)
 
 
 
-##Team Setup
+## Team Setup
 
 1. Team leader is to fork the ChessGame repository (using the fork button) on Github. You now have a copy of the ChessGame repository under your account.
 2. In the repository page, go to `Settings` → `Manage access` → `Invite a collaborator`. Add the rest of your team.
