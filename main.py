@@ -6,7 +6,7 @@ def testGame():
     os.system('python3 -m unittest -v test_chess.TestBonusReqs')
 testGame()
 
-# game = Board()
+# game = Board
 # game.start()
 # while game.winner() is None:
 #     game.display()
