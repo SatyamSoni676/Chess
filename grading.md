@@ -7,7 +7,6 @@ Grading will be carried out **based on the core requirements only**.
 - Each bonus addition, if successfully implemented by a member, gains the group one bonus mark.
 - Further additions by the same member will not gain any bonus marks until other members of the group have also implemented bonus additions.
 
-
 Teams may propose bonus additions
 
 A score between 0-3 is given for each category. There are 5 categories in total:
