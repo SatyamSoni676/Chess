@@ -7,7 +7,6 @@ def gameSetupWithKings():
     game.add((4, 7), King('black'))
     return game
 
-
 class TestIsValid(unittest.TestCase):
     def test_king_isvalid(self):
         '''King move validation'''
