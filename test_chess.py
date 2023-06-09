@@ -1,5 +1,4 @@
 import os, unittest
-
 from chess import Board, King, Queen, Bishop, Knight, Rook, Pawn
 
 def gameSetupWithKings():
