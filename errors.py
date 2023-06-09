@@ -6,6 +6,7 @@ class MoveError(Exception):
 
         super().__init__(f'{start} -> {end}: {self.msg}')
 
+        
 class InvalidPieceMovedError(MoveError):
     pass
 
